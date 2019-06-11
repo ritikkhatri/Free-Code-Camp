@@ -1,0 +1,69 @@
+.markdownSection 
+  display : flex 
+  flex-direction : column 
+  margin : 0 auto
+  
+
+ 
+.editorWrapper 
+  width : 600px
+  margin : 18px auto
+  .Header
+    font-size : 2rem
+    background-color : pink
+    width: 99.5%
+  
+  textarea 
+    width: 98%
+    min-height: 200px
+    margin-bottom: -5px
+    resize: vertical
+    outline: none
+    padding-left: 5px
+    padding-top: 5px
+    font-size: 18px
+  
+
+.previewWrapper  
+  width: 800px
+  margin: 20px auto
+  min-height: 200px
+  overflow-wrap: break-word
+  background-color : gray
+  .Header 
+    font-size : 2rem
+    background-color : pink
+    width: 100%
+  #preview 
+    margin-top: -10px
+    width: 100%
+    
+@media screen and (max-width: 850px) 
+  .previewWrapper 
+    width: 90vw
+    
+  .editorWrapper 
+    width: 550px
+    .Header
+      width : 98.4%
+    textarea
+      width : 96.2%
+  
+ 
+@media screen and (max-width : 650px)  
+  // #editor 
+  //   width : 80vw
+  // #preview 
+  //   width : 100%
+  .editorWrapper 
+    width: 80vw
+    .Header
+      width : 98.4%
+    textarea
+      width : 95%
+  .previewWrapper  
+    width: 95vw
+    #preview
+      img
+        width: 100%
+    
