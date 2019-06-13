@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Free-Code-Camp/static/css/main.039e820d.chunk.css",
+    "main.js": "/Free-Code-Camp/static/js/main.a979bc3c.chunk.js",
+    "main.js.map": "/Free-Code-Camp/static/js/main.a979bc3c.chunk.js.map",
+    "runtime~main.js": "/Free-Code-Camp/static/js/runtime~main.aa7f9fb4.js",
+    "runtime~main.js.map": "/Free-Code-Camp/static/js/runtime~main.aa7f9fb4.js.map",
+    "static/js/2.cf773ea9.chunk.js": "/Free-Code-Camp/static/js/2.cf773ea9.chunk.js",
+    "static/js/2.cf773ea9.chunk.js.map": "/Free-Code-Camp/static/js/2.cf773ea9.chunk.js.map",
+    "index.html": "/Free-Code-Camp/index.html",
+    "precache-manifest.48559732a9bc50aef00d582aff6057cb.js": "/Free-Code-Camp/precache-manifest.48559732a9bc50aef00d582aff6057cb.js",
+    "service-worker.js": "/Free-Code-Camp/service-worker.js",
+    "static/css/main.039e820d.chunk.css.map": "/Free-Code-Camp/static/css/main.039e820d.chunk.css.map"
+  }
+}
